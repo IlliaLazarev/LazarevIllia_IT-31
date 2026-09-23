@@ -1,4 +1,3 @@
-```mermaid
 erDiagram
 
     memberships ||--o{ membership_sales : "включена в"
@@ -26,4 +25,3 @@ erDiagram
         date purchase_date
         date expiration_date
     }
-    ```
